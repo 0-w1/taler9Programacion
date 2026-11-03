@@ -1,0 +1,1 @@
+public interface ConSeguro { void calcularSeguro(); }

@@ -1,0 +1,1 @@
+public interface ConMinutos { int calcularCobro(); }

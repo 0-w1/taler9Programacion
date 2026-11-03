@@ -1,0 +1,1 @@
+// Interfaz general retirada: ahora cada clase implementa solo lo que necesita.
